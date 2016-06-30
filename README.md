@@ -1,2 +1,2 @@
 # Hello-world
-Hello World Project
+Hello World Demo Project
